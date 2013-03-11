@@ -15,7 +15,11 @@ echo ' '.$t4;
  -->
 
 <style type="text/css">
-#cv { width:600px;height:400px;margin:20px auto; }
+#cv {
+	width: 600px;
+	height: 400px;
+	margin: 20px auto;
+}
 </style>
 <script type="text/javascript" src="/js/flotr2.min.js"></script>
 
